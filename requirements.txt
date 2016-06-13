@@ -1,0 +1,4 @@
+numpy
+nevow
+matplotlib
+lxml
